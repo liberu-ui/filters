@@ -8,7 +8,7 @@
 
 Renderless VueJS filter components with Bulma implementations
 
-Can be used outside of the Enso ecosystem.
+Can be used outside of the Liberu ecosystem.
 
 For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
@@ -20,7 +20,7 @@ Be sure to check out the full documentation for this package available at [docs.
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 

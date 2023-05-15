@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/filters",
+  "name": "@liberu-ui/filters",
   "version": "3.0.19",
   "description": "Renderless Vue Filter Components",
   "main": "index.js",
@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/enso-ui/filters#readme",
   "dependencies": {
-    "@cgdsoftware/datepicker": "^2.0",
-    "@cgdsoftware/select": "^3.0",
-    "@cgdsoftware/strings": "^2.0",
-    "@cgdsoftware/switch": "^2.0",
-    "@cgdsoftware/transitions": "^2.0",
+    "@liberu-ui/datepicker": "^2.0",
+    "@liberu-ui/select": "^3.0",
+    "@liberu-ui/strings": "^2.0",
+    "@liberu-ui/switch": "^2.0",
+    "@liberu-ui/transitions": "^2.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/vue-fontawesome": "3.0.0-5",
