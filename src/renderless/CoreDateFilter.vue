@@ -4,7 +4,7 @@ import {
     startOfWeek, endOfWeek, addMonths, startOfMonth, endOfMonth,
     addYears, startOfYear, endOfYear, parse,
 } from 'date-fns';
-import { lcwords } from '@enso-ui/strings';
+import { lcwords } from '@liberu-ui/strings';
 import {
     Intervals, Base, Past, Future, Adjustments,
 } from './intervals';

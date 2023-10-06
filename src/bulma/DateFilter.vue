@@ -76,9 +76,9 @@ import { VTooltip } from 'v-tooltip';
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
-import { Datepicker } from '@enso-ui/datepicker/bulma';
-import { Fade } from '@enso-ui/transitions';
-import VueSwitch from '@enso-ui/switch/bulma';
+import { Datepicker } from '@liberu-ui/datepicker/bulma';
+import { Fade } from '@liberu-ui/transitions';
+import VueSwitch from '@liberu-ui/switch/bulma';
 import CoreDateFilter from '../renderless/CoreDateFilter.vue';
 
 library.add(faArrowLeft);
